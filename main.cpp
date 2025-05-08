@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "test 5" << std::endl;
+    std::cout << "test fork1" << std::endl;
     return 0;
 }
